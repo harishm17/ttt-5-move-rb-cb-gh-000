@@ -14,5 +14,3 @@ end
 def move(board,index,c="X")
   board[index]=c;
 end
-  
-  
